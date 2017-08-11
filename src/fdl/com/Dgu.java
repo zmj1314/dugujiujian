@@ -7,5 +7,7 @@ package fdl.com;
  * @since jdk1.7
  */
 public class Dgu {
-
+	public static void main(String[] args) {
+		System.out.println("linghuchong!");
+	}
 }
