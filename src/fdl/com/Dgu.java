@@ -9,5 +9,6 @@ package fdl.com;
 public class Dgu {
 	public static void main(String[] args) {
 		System.out.println("linghuchong!");
+		System.out.println("wos deire");
 	}
 }
